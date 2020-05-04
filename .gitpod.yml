@@ -2,3 +2,7 @@ tasks:
   - init: echo "Replace me with a build script for the project."
     command: echo "Replace me with something that should run on every start, or just
       remove me entirely."
+
+vscode:
+  extensions:
+    - ms-vscode.cpptools@0.27.1:a/5drK3rWsHAjs3p6glB6Q==
