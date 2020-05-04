@@ -1,8 +1,7 @@
 tasks:
-  - init: echo "Replace me with a build script for the project."
-    command: echo "Replace me with something that should run on every start, or just
-      remove me entirely."
+  - init: echo "Benvenuto nel setup personale di Luca per lo sviluppo di applicazioni in C"
 
 vscode:
   extensions:
     - ms-vscode.cpptools@0.27.1:a/5drK3rWsHAjs3p6glB6Q==
+    - danielpinto8zz6.c-cpp-compile-run@1.0.8:5COODxh3xN670vLM308BaA==
